@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-bootcamp",
+  "version": "1.0.0",
+  "description": "Dossier Technocité",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miiaaa/nodejs-bootcamp.git"
+  },
+  "keywords": [
+    "Entrainement",
+    "Node",
+    "Git",
+    "Technocité"
+  ],
+  "author": "Miiaaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miiaaa/nodejs-bootcamp/issues"
+  },
+  "homepage": "https://github.com/Miiaaa/nodejs-bootcamp#readme"
+}
