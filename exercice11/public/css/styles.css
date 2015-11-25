@@ -1,0 +1,30 @@
+body {
+  font-family: "century gothic";
+  color:#aaa;
+  margin:0;
+  padding:0;
+  }
+
+#container {
+  width:90%;
+  margin:auto;
+}
+
+h1 {
+  color:#FFB6B8;
+  font-weight: 400;
+  background-color: #fcf7f7;
+  padding: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+h2 {
+  color:#bb6c6e;
+  font-weight: 400;
+  background-color: #e3d6d6;
+  padding: 40px;
+  margin-top: 0;
+  text-align: center;
+}

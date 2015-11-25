@@ -21,6 +21,6 @@ var srv = http.createServer(function(req, res) {
   }
 
 });
-srv.listen(3000, function(err) {
-  console.log("Server is now listening on port 3000");
+srv.listen(port, function(err) {
+  console.log("Server is now listening at port : " +port);
 });

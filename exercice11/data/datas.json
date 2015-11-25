@@ -1,0 +1,36 @@
+{"restaurants":
+  [{"id":1,
+    "name":"Resto 01",
+    "adresse":"rue de la Haut",
+    "cp":"7 Ciel",
+    "friends":["Gilles","Vincent","Stéphane"]},
+
+    {"id":2,
+     "name":"Resto 02",
+     "adresse":"rue du Paradis",
+     "cp":"7 Ciel",
+     "friends":["Gilles","Vincent","Stéphane"]},
+
+    {"id":3,
+     "name":"Resto 03",
+     "adresse":"rue de l'amour infini",
+     "cp":"7 Ciel",
+     "friends":["Gilles","Vincent","Stéphane","sa maman"]},
+
+    {"id":4,
+     "name":"Resto 04",
+     "adresse":"Grand rue",
+     "cp":"7640",
+     "friends":["Gilles","Vincent","Stéphane","sa maman"]},
+
+    {"name":"Resto 05",
+     "adresse":"Grand rue",
+     "cp":"7640",
+     "friends":["Gilles","Vincent","Stéphane","sa maman"],
+     "id":6},
+
+    {"name":"Resto 06",
+     "adresse":"Grand rue",
+     "cp":"7640",
+     "friends":["Gilles","Vincent","Stéphane","sa maman"],
+     "id":7}]}

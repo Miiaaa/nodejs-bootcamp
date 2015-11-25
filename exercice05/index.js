@@ -1,4 +1,6 @@
-var fs = require("fs");
+// Version longue
+
+/*var fs = require("fs");
 var utils = require("../modules/utils");
 var args = process.argv;
 var elements = null;
@@ -30,4 +32,18 @@ function updateFile() {
     });
 
   });
-}
+}*/
+
+// Version courte
+
+var fs = require("fs");
+var utils = require("../modules/utils");
+var args = process.argv;
+var elements = null;
+(args[2])? elements = args[2].split(","):elements=[];
+
+fs.appenFile("list.txt", utils.createNiceListOfFiles(elements), function(err) {
+  if (err) throw err;
+    console.log("Bravo!");
+
+  });

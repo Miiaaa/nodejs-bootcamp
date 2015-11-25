@@ -16,3 +16,4 @@ fs.readdir("fichiers", function (err, data) {
   data.forEach(function(elem) {
     console.log(elem);
 });
+}
